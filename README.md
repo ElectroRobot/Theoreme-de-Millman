@@ -1,6 +1,6 @@
 # Théorème de Millman
 
-Ce repository enregistre l'ensemble des projet LTSpice XVII créé pour l'exercice théorème de Millman proposés par Electro Robot. 
+Ce repository enregistre l'ensemble des projets LTSpice XVII créés pour l'exercice théorème de Millman proposés par Electro Robot. 
 Plus de détails, vous pouvez vous faire référence à : <a href="https://electro-robot.com/les-activites/application-le-theoreme-de-millman" rel="dofollow">Application du théorème de Millman</a>
 
 # C'est quoi l'apprentissage avec Electro-Robot ?
